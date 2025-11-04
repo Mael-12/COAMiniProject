@@ -3,3 +3,4 @@ A=1111, B=0001, ADD → Result=0000, Carry=1, Overflow=0
 A=0111, B=1000, SUB → Result=1111, Carry=0, Overflow=0
 A=1000, B=1000, ADD → Result=0000, Carry=1, Overflow=1
 A=0110, B=0010, SUB → Result=0100, Carry=0, Overflow=0
+A=0001, B=0010, Op=SUB → Result=1111, Carry=1, Overflow=1
